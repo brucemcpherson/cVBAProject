@@ -1,15 +1,23 @@
 # VBA Project: cVBAProject
-This repo (cVBAProject) was automatically created on 26/03/2015 09:33:13 by VBAGit.For more information see the [desktop liberation site](http://ramblings.mcpher.com/Home/excelquirks/drivesdk/gettinggithubready "desktop liberation") or [contact me on G+](https://plus.google.com/+BruceMcpherson "Bruce McPherson - GDE")  
+This repo (cVBAProject) was automatically created on 26/03/2015 09:36:45 by VBAGit.For more information see the [desktop liberation site](http://ramblings.mcpher.com/Home/excelquirks/drivesdk/gettinggithubready "desktop liberation") or [contact me on G+](https://plus.google.com/+BruceMcpherson "Bruce McPherson - GDE")  
 ## Details for VBA project cVBAProject
 Where possibile directly referenced or sub referenced library sources have been copied to this repository  
 ### Modules of cVBAProject included in this repo
 *name*|*type*|*source*|*docs*  
 ---|---|---|---  
 cVBAProject|ClassModule|[cVBAProject.cls](scripts/cVBAProject.cls "script source")|[cVBAProject_cls.md](scripts/cVBAProject_cls.md "script docs")  
+cVBAProcedure|ClassModule|[cVBAProcedure.cls](scripts/cVBAProcedure.cls "script source")|[cVBAProcedure_cls.md](scripts/cVBAProcedure_cls.md "script docs")  
+cVBAmodule|ClassModule|[cVBAmodule.cls](scripts/cVBAmodule.cls "script source")|[cVBAmodule_cls.md](scripts/cVBAmodule_cls.md "script docs")  
+cVBAArgument|ClassModule|[cVBAArgument.cls](scripts/cVBAArgument.cls "script source")|[cVBAArgument_cls.md](scripts/cVBAArgument_cls.md "script docs")  
   
 ### All dependencies and sub dependencies in this repo  
 *name*|*type*|*source*|*docs*  
 ---|---|---|---  
+usefulStuff|StdModule|[usefulStuff.vba](libraries/usefulStuff.vba "library source")|[usefulStuff_vba.md](libraries/usefulStuff_vba.md "library docs")  
+usefulRegex|StdModule|[usefulRegex.vba](libraries/usefulRegex.vba "library source")|[usefulRegex_vba.md](libraries/usefulRegex_vba.md "library docs")  
+regXLib|StdModule|[regXLib.vba](libraries/regXLib.vba "library source")|[regXLib_vba.md](libraries/regXLib_vba.md "library docs")  
+cStringChunker|ClassModule|[cStringChunker.cls](libraries/cStringChunker.cls "library source")|[cStringChunker_cls.md](libraries/cStringChunker_cls.md "library docs")  
+cregXLib|ClassModule|[cregXLib.cls](libraries/cregXLib.cls "library source")|[cregXLib_cls.md](libraries/cregXLib_cls.md "library docs")  
   
 ###Excel references  
 ####These references were detected in the workbook (VbaGitBootStrap.xlsm) this repo was created from. You may not need them all  
