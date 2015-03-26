@@ -2,7 +2,7 @@
 ## VBA Module: **[cVBAProject](/scripts/cVBAProject.cls "source is here")**
 ### Type: ClassModule  
 
-This procedure list for repo (cVBAProject) was automatically created on 26/03/2015 09:33:13 by VBAGit.
+This procedure list for repo (cVBAProject) was automatically created on 26/03/2015 09:36:44 by VBAGit.
 For more information see the [desktop liberation site](http://ramblings.mcpher.com/Home/excelquirks/drivesdk/gettinggithubready "desktop liberation")
 
 Below is a section for each procedure in cVBAProject
